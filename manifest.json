@@ -1,7 +1,7 @@
 {
-    "name": "二维码生成器",
+    "name": "Demo",
     "version": "1.0.0",
-    "description": "二维码生成器",
+    "description": "Demo",
     "manifest_version": 2,
     "background": {
         "scripts": ["js/background.js"],
